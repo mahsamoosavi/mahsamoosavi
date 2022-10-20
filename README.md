@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♀️ , I'm Mahsa</h1>
-<h3 align="center">A passionate blockchain developer based in Canada</h3>
+<h3 align="center">A passionate blockchain developer based in Canada 🇨🇦</h3>
 
 - 👩🏻‍💻 I’m currently working at **OffchainLabs**
 
